@@ -1,40 +1,59 @@
-# Jekyll-Bootstrap
+flex
+====
 
-The quickest way to start and publish your Jekyll powered blog. 100% compatible with GitHub pages
+Flex is a responsive, flexible, [Jekyll](http://jekyllrb.com) theme.
 
-## Usage
+The theme is based on the website [The Development](http://thedevelopment.co).
 
-For all usage and documentation please see: <http://jekyllbootstrap.com>
+View a demo website [here](http://the-development.github.io/flex/).
 
-## Version
+Installation
+===
+To use this theme, you would do so like any other Jekyll setup:
 
-0.3.0 - stable and versioned using [semantic versioning](http://semver.org/).
+1. Install Jekyll: `gem install jekyll`
+2. Fork this repository to your machine
+3. `cd` to the forked directory and run `jekyll serve --watch`
+4. Celebrate and dance.
 
-**NOTE:** 0.3.0 introduces a new theme which is not backwards compatible in the sense it won't _look_ like the old version.
-However, the actual API has not changed at all.
-You might want to run 0.3.0 in a branch to make sure you are ok with the theme design changes.
+Contributions
+===
 
-## Contributing
+In general, there are no strict rules for contributing, only that your code is clean and well structured.
 
+For bugs:
+- To merge a fix, you can simply open a pull request.
+- To report one that is not yet fixed, open an issue.
 
-To contribute to the framework please make sure to checkout your branch based on `jb-development`!!
-This is very important as it allows me to accept your pull request without having to publish a public version release.
+Feature requests:
+- **Always** open an issue first before implementing and proposing a new feature. This is only so I can make sure the theme doesn't become bloated with too many features. This way, I can determine if an idea is something that makes sense for the theme's design.
 
-Small, atomic Features, bugs, etc.
-Use the `jb-development` branch but note it will likely change fast as pull requests are accepted.
-Please rebase as often as possible when working.
-Work on small, atomic features/bugs to avoid upstream commits affecting/breaking your development work.
+If in doubt, you can always ask me on Twitter: [@jeffxmn](https://twitter.com/jeffxmn)
 
-For Big Features or major API extensions/edits:
-This is the one case where I'll accept pull-requests based off the master branch.
-This allows you to work in isolation but it means I'll have to manually merge your work into the next public release.
-Translation : it might take a bit longer so please be patient! (but sincerely thank you).
+License
+===
 
-**Jekyll-Bootstrap Documentation Website.**
-
-The documentation website at <http://jekyllbootstrap.com> is maintained at https://github.com/plusjade/jekyllbootstrap.com
+Flex is licensed under the MIT license:
 
 
-## License
+The MIT License (MIT)
 
-[MIT](http://opensource.org/licenses/MIT)
+Copyright (c) 2013-2014 Jeff Martin
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.

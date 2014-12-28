@@ -1,9 +1,8 @@
 # Site wide configuration
 
-title:            Site Title
+title:            VigneshKrishnamoorthy
 locale:           en_US
-url:              
-
+url:              http://vigneshkrishnamoorthy.github.io
 
 # Jekyll configuration
 

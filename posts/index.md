@@ -1,5 +1,5 @@
 ---
 layout: post-index
-title: All Posts
+title: Chronology
 excerpt: "A List of Posts"
 ---

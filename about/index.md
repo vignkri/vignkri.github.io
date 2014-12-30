@@ -2,7 +2,7 @@
 layout: page
 title: About Me
 tags: [about me, profile]
-modified: 2014-30-12T19:30
+modified: 2014-30-12T21:35
 comments: false
 image:
   feature: 
@@ -10,7 +10,9 @@ image:
   creditlink: 
 ---
 
-This is my blog, and here 'my' refers to me: Vignesh Krishnamoorthy. To talk about me would be that I am a Masters Student at the Technical University of Denmark going towards finishing up my studies in another half year. I am also a writer; it would be better to say that I am an aspiring writer. In addition to all of that, I am an avid reader, quantified-data enthusiast, computer nerd, sometimes-a-photographer, gamer and a music-lover. And this, this is my blog. 
+#Who am I?
+
+I go by the name Vignesh Krishnamoorthy. Born and raised in India, I have lived there for 21 years before I moved to Copenhagen, Denmark to study my Masters in Sustainable Energy at the Technical University of Denmark in August, 2013. Currently, I live in Denmark and study in Denmark with 6 months to go on my programme. My main interests lie in Thermodynamics and Advanced Power Plants in my field of study. That is not even restricted as they also extend towards Data Analytics and currently I am enthusiastic about Quantified-Self. Apart from all of that, I breathe Manchester United; I run a weekly radio-show at DTU through which I share my love for music and finally I am a budding entrepreneur and a writer. All of what I do is what defines me. 
 
 #What am I writing about? 
 

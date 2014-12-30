@@ -1,25 +1,29 @@
 ---
 layout: page
-title: About the Theme
-tags: [about, Jekyll, theme, responsive]
-modified: 2014-08-08T20:53:07.573882-04:00
-comments: true
+title: About Me
+tags: [about me, profile]
+modified: 2014-30-12T19:30
+comments: false
 image:
-  feature: sample-image-2.jpg
-  credit: WeGraphics
-  creditlink: http://wegraphics.net/downloads/free-ultimate-blurred-background-pack/
+  feature: 
+  credit: 
+  creditlink: 
 ---
 
-Minimal Mistakes is responsive Jekyll theme with large featured images and solid typography. As the name implies the styling is fairly minimal to make it easier for you to build on top of.
+This is my blog, and here 'my' refers to me: Vignesh Krishnamoorthy. To talk about me would be that I am a Masters Student at the Technical University of Denmark going towards finishing up my studies in another half year. I am also a writer; it would be better to say that I am an aspiring writer. In addition to all of that, I am an avid reader, quantified-data enthusiast, computer nerd, sometimes-a-photographer, gamer and a music-lover. And this, this is my blog. 
 
-## Minimal Mistakes is all about:
+#What am I writing about? 
 
-* Responsive templates. Looking good on mobile, tablet, and desktop.
-* Gracefully degrading in older browsers. Compatible with Internet Explorer 8+ and all modern browsers. 
-* Minimal embellishments -- content first.
-* Optional large feature images for posts and pages.
-* Simple and clear permalink structure.
-* [Custom 404 page](http://mmistakes.github.io/minimal-mistakes/404.html) to get you started.
-* Support for Disqus Comments
+I write about a rather large amount stuff but I wanted to remove my dependence on third party systems that I have no control over and this is my trial run with something 'hack-y' as github. I am not an experimental person but the last few weeks, my inclination to stop being curious and start doing stuff have hit the higher number and this is my trial with experimenting with all that. The list of things I plan to write about here include:
 
-<a markdown="0" href="{{ site.url }}/theme-setup" class="btn">Install Minimal Mistakes Theme</a>
+* my blog posts - covering my brain-farts, brain-diarrhea
+* movies
+* music
+* quantified-self data thoughts
+* games
+* stories
+* travelogues
+* My hardships during my Master-Thesis
+* Living in a foreign country
+* And possibly more...
+

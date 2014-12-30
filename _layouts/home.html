@@ -41,6 +41,7 @@
         <class="post"><h2><a href="{{ site.url }}{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a><font size="3" color="696866" style="italic"> | <time datetime="{{ post.date | date_to_xmlschema }}" itemprop="datePublished">{{ post.date | date: "%B %d, %Y" }}</time></font></h2></class>
 		<p>{{ post.excerpt | strip_html | truncate: 160 }}</p>
       {% endif %}
+	  <hr>
     </article>
     {% endfor %}
   </div><!-- /#index -->

@@ -1,8 +1,8 @@
 # Site wide configuration
 
-title:            Vignesh Krishnamoorthy
+title:            Vignesh Krish
 locale:           en_US
-url:              
+url:              http://vigneshkrishnamoorthy.github.io/
 
 
 # Jekyll configuration
@@ -27,31 +27,12 @@ kramdown:
 # Site owner
 owner:
   name: Vignesh Krishnamoorthy
-  avatar: bio-photo.jpg
-  bio: "Student of Energy-Engineering; Interested in Data-Analytics in Energy. Passionate about Manchester United, Music, Movies. A budding entrepreneur and writer."
-  email: 
-  disqus-shortname: 
+# avatar: bio-photo.jpg
+  bio: "So it goes."
+  email: k.vignesh.krish@gmail.com
   twitter: vignkr
-  facebook: #username
-  google:
-    plus: #username
-    analytics: 
-    verify: 
-    ad-client: 
-    ad-slot: 
-  bing-verify: 
-  github: #username
-  stackoverflow: #username
-  linkedin: #username
-  instagram: #username
-  lastfm: #username
-  tumblr: #username
-  pinterest: #username
-  foursquare: #username
-  steam: #username
-  dribbble: #username
-  youtube: #username
-  soundcloud: #username
+  github: vigneshkrishnamoorthy
+  linkedin: vigneshkrishnamoorthy
 
 include: [".htaccess"]
 exclude: ["lib", "config.rb", "Capfile", "config", "log", "Rakefile", "Rakefile.rb", "tmp", "less", "*.sublime-project", "*.sublime-workspace", "test", "spec", "Gruntfile.js", "package.json", "node_modules", "Gemfile", "Gemfile.lock", "LICENSE", "README.md"]

@@ -10,8 +10,6 @@ image:
   creditlink: 
 ---
 
-#Who am I?
-
 I go by the name Vignesh Krishnamoorthy. Born and raised in India, I have lived there for 21 years before I moved to Copenhagen, Denmark to study my Masters in Sustainable Energy at the Technical University of Denmark in August, 2013. Currently, I live in Denmark and study in Denmark with 6 months to go on my programme. My main interests lie in Thermodynamics and Advanced Power Plants in my field of study. That is not even restricted as they also extend towards Data Analytics and currently I am enthusiastic about Quantified-Self. Apart from all of that, I breathe Manchester United; I run a weekly radio-show at DTU through which I share my love for music and finally I am a budding entrepreneur and a writer. All of what I do is what defines me. 
 
 #What am I writing about? 

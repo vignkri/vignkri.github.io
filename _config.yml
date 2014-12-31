@@ -32,6 +32,12 @@ owner:
   email: k.vignesh.krish@gmail.com
   twitter: vignkr
   github: vigneshkrishnamoorthy
+  google:
+    plus: #username
+    analytics: UA-58118231-1
+    verify: 
+    ad-client: 
+    ad-slot: 
   linkedin: vigneshkrishnamoorthy
 
 include: [".htaccess"]

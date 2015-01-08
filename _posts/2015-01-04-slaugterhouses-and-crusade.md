@@ -3,7 +3,7 @@ layout: post
 title: Slaughterhouses and Crusade
 modified: 2015-01-04
 categories: {{ dir }}
-excerpt: On the book Slaughethouse Five and The Children's Crusade by Kurt Vonnegut
+excerpt: On the book Slaugherhouse Five and The Children's Crusade by Kurt Vonnegut
 tags: books
 ---
 

@@ -25,7 +25,5 @@ Planning the thesis has been hard work. Until now, I've been reading quite some 
 
 ##How is it going until now and how will it go? 
 
-It has been a decent start but there is a long way to go. I'll try to describe my thoughts and actions over the course of the thesis here. It is going to be a nice little journal chronicling my trip through the timeline of the thesis. Most of my work is going to be right now is concentrating on getting data for my thesis. The focus right now is to get data regarding the garbage composition. Once I get the required data, I'll get right into getting a bit more detailed about the work regarding the thesis especially with the model of the system and getting it right. That would be in a one/two weeks in the maximum. 
-
-I'll keep this as a live series until I finish my thesis. It is my understanding that I am going to have some fun during the course of this thesis and hope to share what I learn here. 
+It has been a decent start but there is a long way to go. I'll try to describe my thoughts and actions over the course of the thesis here. This would be a series of posts chronicling my trip on the river of my thesis. I don't know where I am going except that I have a faint idea of what would be waiting for me. So, it just feels prudent to put my experiences with my thesis up here in order to have a written record. You can definitely expect future updates with regards to my thesis. Thanks for reading!
 

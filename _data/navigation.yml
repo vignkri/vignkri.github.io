@@ -1,7 +1,7 @@
 # Site navigation links
 
-- title: Curriculum Vitae
-  url: /cv/
+#- title: Curriculum Vitae
+# url: /cv/
 
 - title: Chronology
   url: /posts/

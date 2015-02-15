@@ -5,12 +5,11 @@ body {
 }
 .navigation-wrapper {
 	@include container;
-	padding: 1em 0 1em;
+	padding: 2em 0 1em;
 	font-family: $heading-font;
 	font-weight: 700;
 	text-transform: uppercase;
 	@include clearfix;
-	background: #9FB227;
 }
 .site-name {
 	@include grid(12,10);
@@ -55,7 +54,7 @@ body {
 	li {
 		display: block;
 		list-style-type: none;
-		border-bottom: 1px solid lighten($black,80);
+		border-bottom: 1px solid lighten($black,50);
 		border-bottom: 1px solid fade($black,10);
 		@include font-rem(16);
 		&:last-child {

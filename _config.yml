@@ -9,7 +9,7 @@ url:              http://vigneshkrishnamoorthy.github.io
 
 permalink:   /:categories/:title/
 markdown:    kramdown
-highlighter: true
+highlighter: pygments
 sass:
   sass_dir: _sass
   style: compressed

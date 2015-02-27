@@ -2,19 +2,21 @@
 $doc-font-size: 16;
 $doc-line-height: 26;
 $paragraph-indent: false;
-$base-font: 'PT Serif', serif;
-$heading-font: 'PT Sans Narrow', sans-serif;
+$base-font: 'Crimson Text', serif;
+$heading-font: 'Open Sans Condensed', sans-serif;
 $code-font: Monaco, "Courier New", "DejaVu Sans Mono", "Bitstream Vera Sans Mono", monospace;
 $alt-font: $base-font;
 
 // COLOR ======================================================
-$bodycolor      : #fff;
+$bodycolor      : #F5F1EB;
 $body-color     : $bodycolor;
+
 $textcolor      : #333332;
 $text-color     : $textcolor;
 $border-color   : $text-color;
-$basecolor 		  : #343434;	  
-$compcolor 		  : spin($basecolor, 180); 
+
+$basecolor 		  : #343434;
+$compcolor 		  : spin($basecolor, 180);
 $bordercolor    : $basecolor;
 $white          : #fff;
 $black          : #111;
@@ -27,12 +29,23 @@ $warning			: #dd8338;
 $danger				: #C64537;
 $info				  : #308cbc;
 
+// Date color
+$datecolor    : #7F7F70;
+//$datecolornew : ;
+
 // Links
 $linkcolor 		    : #343434;
 $link-color       : $linkcolor;
 $linkcolorhover 	: darken($linkcolor, 10);
 $linkcolorvisited : lighten($linkcolorhover, 20);
 $linkcolorfocus 	: darken($linkcolorvisited, 10);
+
+// Navigation Links
+$navlinkcolor         : #E33325;
+$navlink-color        : $navlinkcolor;
+$navlinkcolorhover    : darken($navlinkcolor, 5);
+$navlinkcolorvisited  : lighten($navlinkcolorhover, 10);
+$navlinkcolorfocus    : darken($navlinkcolorvisited, 10);
 
 // Media Queries
 $micro            : "only screen and (min-width: 30em)";

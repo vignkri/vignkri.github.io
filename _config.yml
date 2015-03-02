@@ -35,9 +35,9 @@ owner:
   google:
     plus: #username
     analytics: UA-58118231-1
-    verify: 
-    ad-client: 
-    ad-slot: 
+    verify:
+    ad-client:
+    ad-slot:
   linkedin: vigneshkrishnamoorthy
 
 include: [".htaccess"]

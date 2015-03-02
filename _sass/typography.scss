@@ -22,24 +22,53 @@ h6 {
 	@include font-size(14);
 }
 
+// Dates
+// --------------------------------------------------
+
+dates{
+	//font-family	: ;
+	color 			: $datecolor;
+	font-size		: 14px;
+	padding 		: 0px 0px 0px 7px;
+}
+
 // Links
 // --------------------------------------------------
-a { 
+a {
 	text-decoration: none;
-	color: $link-color; 
-	&:visited { 
-		color: $linkcolorvisited; 
+	color: $link-color;
+	&:visited {
+		color: $linkcolorvisited;
 	}
-	&:hover { 
-		color: $linkcolorhover; 
+	&:hover {
+		color: $linkcolorhover;
 	}
-	&:focus { 
-		outline: thin dotted; 
+	&:focus {
+		outline: thin dotted;
 		color: $linkcolorfocus;
 	}
-	&:hover, 
-	&:active { 
-		outline: 0; 
+	&:hover,
+	&:active {
+		outline: 0;
+	}
+}
+
+navlinker{
+	text-decoration: none;
+	color: $navlink-color;
+	&:visited {
+		color: $navlinkcolorvisited;
+	}
+	&:hover {
+		color: $navlinkcolorhover;
+	}
+	&:focus {
+		outline: thin dotted;
+		color: $navlinkcolorfocus;
+	}
+	&:hover,
+	&:active {
+		outline: 0;
 	}
 }
 
@@ -127,9 +156,9 @@ tt, code, kbd, samp, pre {
 	font-family: $code-font;
 }
 p,
-li { 
+li {
 	code {
-		@include font-rem(12);
+		@include font-rem(16);
 		line-height: 1.5;
 		white-space: nowrap;
 		margin: 0 2px;
@@ -140,7 +169,7 @@ li {
 	}
 }
 pre {
-	@include font-rem(12);
+	@include font-rem(16);
 	line-height: 1.5;
 	overflow-x: auto;
 }

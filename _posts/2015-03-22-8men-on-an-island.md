@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 8 Men in an Island
+title: 8 Men on an Island
 excerpt: "A trip from Copenhagen to Bornholm on bikes, with tents and no idea
 what to expect"
 modified: 2015-03-22

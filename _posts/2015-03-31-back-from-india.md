@@ -34,7 +34,7 @@ My niece turned 1 couple of days after I landed. It was so interesting and lovel
 
 ## Sheer absurdity of it all
 
-It was a meaningful week home. I felt refreshed. I felt energized. The best thing was the final day in India. I went to a temple, ate some street food and even emptied a lot of snacks into my bowels. Yet, the sheer feeling of India hit me when I was in the car again going to the airport at midnight. We turned on the road to go the other way and saw our way blocked by a bus inching forward towards us on the wrong side of the road. The driver braked and one guy came running towards our car from the bus. It was a public transport bus. He stopped at the driver's window and said in a dead-pan voice:
+It was a meaningful week home. I felt refreshed. I felt energized. The best thing was the final day in India. I went to a temple, ate some street food and even emptied a lot of snacks into my cavernous and hungry stomach. Yet, the sheer feeling of being in India hit me when I was in the car again going to the airport around midnight. We turned on the road to go the other way and saw our way blocked by a bus inching forward towards us on the wrong side of the road. The driver braked and one guy came running towards our car from the bus. It was a public transport bus. He stopped at the driver's window and said in a dead-pan voice:
 
 > Boss, the reverse gear in the bus is broken. We've been slithering all through the small roads to get here. Could you please back out so that we can go to the bus depot? 
 

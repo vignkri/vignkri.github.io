@@ -1,7 +1,7 @@
 ---
-layout: page
-title: About Me
-tags: [about me, profile]
+layout: home
+title: Blog
+tags: [blog]
 modified: 2014-30-12T21:35
 comments: false
 image:

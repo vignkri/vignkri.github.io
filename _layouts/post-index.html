@@ -13,27 +13,13 @@
 
 {% include _navigation.html %}
 
-{% if page.image.feature %}
-  <div class="image-wrap">
-  <img src=
-    {% if page.image.feature contains 'http' %}
-      "{{ page.image.feature }}"
-    {% else %}
-      "{{ site.url }}/images/{{ page.image.feature }}"
-    {% endif %}
-  alt="{{ page.title }} feature image">
-  {% if page.image.credit %}
-    <span class="image-credit">Photo Credit: <a href="{{ page.image.creditlink }}">{{ page.image.credit }}</a></span>
-  {% endif %}
-  </div><!-- /.image-wrap -->
-{% endif %}
-
 <div id="main" role="main">
   <div class="article-author-side">
-    {% include _author-bio.html %}
+		<a href="{{page.link}}"><h1>{{ page.title }}</h1></a>
+		<br>
+		<a href="{{site.url}}/tags"><h1>Archive by Tags</h1></a>
   </div>
   <div id="index">
-    <a href="{{page.link}}"><h1>{{ page.title }}</a> / <a href="{{site.url}}/tags">Tag Archive</h1></a>
     {% for post in site.posts %}
     {% unless post.next %}
       <h3>{{ post.date | date: '%Y' }}</h3>

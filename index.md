@@ -2,13 +2,13 @@
 layout: page
 title: About Me
 excerpt: "The neurons that power me"
-tags: [Jekyll, theme, responsive, blog, template]
+tags: [blog, home-page]
 image:
   feature: 
   credit: 
   creditlink:
 ---
 
-My name is Vignesh Krishnamoorthy, a masters graduate in Sustainable Energy, Thermal Energy from the Technical University of Denmark. I was born in Trivandrum, Kerala, India and grew up in the beautiful city of Madurai, Tamil Nadu, India where I did my school. After my school, I had my bachelors in Mechanical Engineering at Kalasalingam University where I had a lot of fun for 4 years travelling to and from the university by bus about 60 kilometers away. After finishing up my bachelors, I moved to Copenhagen, Denmark to do my Masters in Sustainable Energy with specialization in Thermal Energy.
+Born in Thiruvananthapuram, Kerala and named Vignesh, just for having a name starting with the same letter as my sister, I grew up about 400 kilometers away at a city/town called Madurai, Tamil Nadu. Finishing my high school with Computer Science, Physics and Chemistry and then a bachelors in Mechanical Engineering at Kalasalingam University, I moved to Denmark in 2013 to pursue my Masters. I completed my masters in *Sustainable Engineering - Thermal Energy* study line in July, 2015. After graduation, I joined as an intern and now a full time employee at Leapcraft ApS. 
 
-This blog/website is a chronicle of my thoughts, and some projects I work on and off in my free time. As an extension of my desire to get better with the written word, I write about a lot of things about books that I read, movies that I watch and small projects that I spend my weekends on. I hope you find it an interesting read. You can find me on my Github or on LinkedIn in case you want to contact me. 
+This is the landing page of sorts for my thoughts, hallucinations, book reviews and sometimes technical treatises on topics I'm interested in and I am working on. Apart from all of this, this page serves a purpose to consolidate most of online presence into one. welcome, if you have any questions, find me on Github/Twitter/Facebook. You can find my contact information with a bit of work. Cheers and enjoy your stay.

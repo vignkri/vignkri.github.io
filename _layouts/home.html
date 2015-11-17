@@ -33,7 +33,9 @@
   <div class="article-author-side">
   	<a href="{{page.link}}"><h1>{{ page.title }}</h1></a>
 	<hr>
-    <!-- {% include _author-bio.html %} -->
+    <div class="article-wrap">
+      {{ content }}
+    </div><!-- /.article-wrap -->
   </div>
   <div id="index">
     {% for post in site.posts limit:10 %}

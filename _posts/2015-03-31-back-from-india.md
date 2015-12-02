@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Back from India
+title: A trip back home
 excerpt: "Going back to India after a year and a half in Denmark for a week"
 modified: 2015-03-31
 tags: [update]
@@ -38,4 +38,4 @@ It was a meaningful week home. I felt refreshed. I felt energized. The best thin
 
 > Boss, the reverse gear in the bus is broken. We've been slithering all through the small roads to get here. Could you please back out so that we can go to the bus depot? 
 
-I guffawed when I heard it. That was truly the feeling of being back in India. The sheer absurdity of it all transpiring right in front. Yet, I felt slightly more proud of my country as I boarded my plant for a variety of reasons I will try to enunciate. I saw the small things that I never thought I'll miss, yet found myself missing them. That made it endearing. You could say that I fell in love with the country, again.
+I guffawed when I heard it. That was truly the feeling of being back in India. The sheer absurdity of it all transpiring right in front. Yet, I felt slightly more proud of my country as I boarded my plane. I saw the small things that I never thought I'll miss, yet found myself missing them. That made it endearing. You could say that I fell in love with the country, again.

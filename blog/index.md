@@ -10,4 +10,4 @@ image:
   creditlink:
 ---
 
-Thoughts, hallucinations and ramblings.
+Critical thoughts on topics I read about, I am passionate about and fields that I hope to work in some day in the future. 

@@ -30,20 +30,20 @@
 
 <div id="main" role="main">
   <div class="article-author-side">
-      <div class="headline-wrap">
-      {% if page.link %}
-        <h1><a href="{{ page.link }}">{{ page.title }}</a>    <font size="3" color="696866">{{page.date | date: "%b %d, %Y" }}</font></h1>
-      {% else %}
-        <h1><a href="{{ site.url }}{{ page.url }}" rel="bookmark" title="{{ page.title }}">{{ page.title }}</a></h1>
-      {% endif %}
-    </div><!--/ .headline-wrap -->
 	<h1><font size="3" color="696866">{{page.date | date: "%b %d, %Y" }}</font></h1>
-		<div class="tags-in-post">
+	<div class="tags-in-post">
          <font size="2"><a href="{{site.url}}/tags"><b>Tags:</b></a>  <span class="entry-tags">{% for tag in page.tags %}{{ tag }}{% unless forloop.last %}{% endunless %}{% endfor %}</span></font>
-         <hr>
 	</div>	
   </div>
   <article class="post">
+	<div class="headline-wrap">
+      {% if page.link %}
+        <h1><a href="{{ page.link }}">{{ page.title }}</a></h1>
+      {% else %}
+        <h1><a href="{{ site.url }}{{ page.url }}" rel="bookmark" title="{{ page.title }}">{{ page.title }}</a></h1>
+      {% endif %}
+    </div><! --headline-wrap -->
+	<hr>
     <div class="article-wrap">
       {{ content }}
 	  <hr>

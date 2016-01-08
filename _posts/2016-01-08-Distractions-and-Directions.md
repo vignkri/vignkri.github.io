@@ -2,7 +2,7 @@
 layout: post
 title: Distractions and Directions
 excerpt: "The illusion of free time is not an illusion; is rather a lack of direction"
-modified: 2015-12-14
+modified: 2016-01-08
 tags: [thoughts]
 image:
   feature: 

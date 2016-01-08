@@ -5,9 +5,9 @@ excerpt: "The illusion of free time is not an illusion; is rather a lack of dire
 modified: 2015-12-14
 tags: [thoughts]
 image:
-  feature: lighthouse.jpg
-  credit: Nick Diamantidis, Unsplash
-  creditlink: https://unsplash.com/nick_diama
+  feature: 
+  credit: 
+  creditlink: 
 ---
 
 Free time is an illusion. It is, at the least, considered to be an illusion. At university and at school, quantity of perceived 'free-time' is huge. Every hour not spent studying, partying or exercising is free. And those hours of laziness exists in large chunks leaving enough time to dream up extravagant scenarios of world-domination. But, as soon as you start working, the free time becomes a questionable aspect of life. Is there actually free time or is it time I just want for myself to relax rather than work on something else? 

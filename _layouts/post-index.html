@@ -21,6 +21,7 @@
   </div>
   <div id="index">
     {% for post in site.posts %}
+	{% if post.category contains 'blog' %}
     {% unless post.next %}
       <h3>{{ post.date | date: '%Y' }}</h3>
       {% else %}
@@ -38,6 +39,7 @@
           <p>{{ post.excerpt | strip_html | truncate: 160 }}</p>
         {% endif %}
       </article>
+	{% endif %}
     {% endfor %}
   </div><!-- /#index -->
 </div><!-- /#main -->

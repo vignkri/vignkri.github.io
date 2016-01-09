@@ -3,6 +3,7 @@ layout: post
 title: A trip back home
 excerpt: "Going back to India after a year and a half in Denmark for a week"
 modified: 2015-03-31
+category: blog
 tags: [personal]
 image:
   feature: backfromindia.png

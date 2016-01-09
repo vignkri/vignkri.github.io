@@ -3,6 +3,7 @@ layout: post
 title: The start of my Master thesis
 excerpt: "Starting the thesis is not a small thing. It requires planning."
 modified: 2015-01-25
+category: blog
 tags: [thesis]
 ---
 It is the beginning of my Masters graduating thesis. My thesis is on analysing the possibility of taking garbage and making electricity and heat using the garbage using a SOFC through a gasifier. Let me try to explain what my thesis is about in some detail.

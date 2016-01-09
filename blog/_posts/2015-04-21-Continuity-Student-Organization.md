@@ -3,6 +3,7 @@ layout: post
 title: Continuity in student organizations - A problem?
 excerpt: "Continuity always suffers in student organizations. Can this be solved?"
 modified: 2015-04-21
+category: blog
 tags: [thoughts]
 image:
   feature: lighthouse.jpg

@@ -38,12 +38,14 @@
   </div>
   <div id="index">
     {% for post in site.posts limit:10 %}
-	{% if post.categories contains 'poem' %}
+	{% if post.categories contains 'poems' %}
     <article>
       {% if post.link %}
-        <class="link-post"><h2><a href="{{ site.url }}{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a> <a href="{{ post.link }}" target="_blank" title="{{ post.title }}"><i class="fa fa-link"></i><font size="3" color="696866" style="italic"> | <time datetime="{{ post.date | date_to_xmlschema }}" itemprop="datePublished">{{ post.date | date: "%B %d, %Y" }}</time></font></h2></class>
+        <class="link-post"><h2>
+		<a href="{{ site.url }}{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a>
+		<a href="{{ post.link }}" target="_blank" title="{{ post.title }}"><i class="fa fa-link"></i></h2></class>
       {% else %}
-        <class="post"><h2><a href="{{ site.url }}{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a><dates><time datetime="{{ post.date | date_to_xmlschema }}" itemprop="datePublished">{{ post.date | date: "%B %d, %Y" }}</time></dates></h2></class>
+        <class="post"><h2><a href="{{ site.url }}{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a></h2></class>
 		<p>{{ post.excerpt | strip_html | truncate: 160 }}</p>
       {% endif %}
     </article>

@@ -8,3 +8,5 @@ image:
   credit: 
   creditlink:
 ---
+
+I dabble in poetry and here you can see what I've managed to write until now.

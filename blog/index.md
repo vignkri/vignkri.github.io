@@ -8,3 +8,5 @@ image:
   credit: 
   creditlink:
 ---
+
+Here is where I write my posts which can vary from personal rants to highlights on my projects or even travel excerpts. They are tagged to avoid confusion.

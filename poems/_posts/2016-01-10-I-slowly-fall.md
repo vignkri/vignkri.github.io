@@ -7,7 +7,7 @@ category: poems
 tags: [poem]
 ---
 
-In the sun, I see her,
-In the night, I smile,
-In silence, I dream,
-In front, I slowly fall.
+In the sun, I see her,  
+In the night, I smile,  
+In silence, I dream,  
+In front, I slowly fall.  

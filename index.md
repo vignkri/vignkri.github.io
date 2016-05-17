@@ -7,10 +7,10 @@ image:
   credit: 
   creditlink:
 ---
-<h1>I am Vignesh Krishnamoorthy</h1>
-Sustainable Energy engineer graduating from Technical University of Denmark, in 2015. I currently work with <a href="http://leapcraft.dk">Leapcraft</a> in creating data products. In my free time, I tinker with programming, electronics and a lot of writing. My pet projects concern energy optimization, thermodynamic modelling, and energy markets in Python. As for writing, I maintain a personal blog where I write about everything from personal thoughts, updates on projects to travel information and short stories.
+<h1>Hi, this is Vignesh Krishnamoorthy</h1>
 
-I write <a href="http://vigne.sh/blog/">here.</a><br />
-You can find my profile at my <a href="https://dk.linkedin.com/in/vigneshkrishnamoorthy">LinkedIn page.</a><br />
-My programming projects are in my <a href="http://github.com/vignkri">Github page.</a><br />
-Email me at <a href="mailto:k.vignesh.krish@gmail.com?Subject=Hello%20!">k.vignesh.krish@gmail.com</a><br />
+I graduated from the Technical University of Denmark as a Sustainable Energy Engineer, in 2015. Currently, I am employed at <a href="http://leapcraft.dk">Leapcraft</a> creating data products. 
+
+In my free time, I tinker with programming, read, watch and write about various things that pique my interest. You can read about what I think and what I do, right here. Check out the <a href='blog'>blog</a> to see more of what I write. You can contact me through <a href="http://github.com/vignkri">Github</a> or through <a href='https://dk.linkedin.com/in/vigneshkrishnamoorthy'>LinkedIn</a> or by sending me a mail at <a href='mailto:k.vignesh.krish@gmail.com?Subject=Hello%20!'>vignesh</a>.
+
+Thanks for visiting.

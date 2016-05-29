@@ -27,4 +27,3 @@ Planning the thesis has been hard work. Until now, I've been reading quite some 
 ## How is it going until now and how will it go? 
 
 It has been a decent start but there is a long way to go. I'll try to describe my thoughts and actions over the course of the thesis here. This would be a series of posts chronicling my trip on the river of my thesis. I don't know where I am going except that I have a faint idea of what would be waiting for me. So, it just feels prudent to put my experiences with my thesis up here in order to have a written record. 
-

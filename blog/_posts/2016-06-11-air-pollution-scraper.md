@@ -9,9 +9,9 @@ tags: [python, projects]
 
 **Requirements**: Python 3+ and BeautifulSoup 4.
 
-Aarhus University along with the DCE-National Center for Environment and Energy have multiple air-pollution monitoring systems in the major cities of Denmark. These measure he air-quality on major roads and background values. All of the measured data is found <a href='http://www2.dmu.dk/atmosphericenvironment/byer/forside.htm'>online</a> for everyone to see along with some very small graphs. These can be seen here
+Aarhus University along with the DCE-National Center for Environment and Energy have multiple air-pollution monitoring systems in the major cities of Denmark. These systems measure he air-quality on major roads. All of the measured data is uploaded <a href='http://www2.dmu.dk/atmosphericenvironment/byer/forside.htm'>online</a>. 
 
-As I wanted to use the dataset available online, I quickly whipped up a script to scrape the values and give me a CSV. Additionally, I wanted to have the values converted from the standard <a href='http://www2.dmu.dk/AtmosphericEnvironment/Expost/database/docs/PPM_conversion.pdf'>microgram per cubic meter to parts per billion as well</a> using the computation specified in the link. 
+As I wanted to use this dataset, I quickly whipped up a script to scrape the values and give me a CSV that can be easily handled. To be further useful, the values, originally in $$\frac{\mu g}{m^3}$$ is also converted to $$ppb$$ according to the computation method that is hosted <a href='http://www2.dmu.dk/AtmosphericEnvironment/Expost/database/docs/PPM_conversion.pdf'>here</a> as a pdf from Aarhus University. 
 
 The script will on use, scrape the link, create two CSV files: one with unit converted values and the other as raw. The gist of the script is embedded below.
 

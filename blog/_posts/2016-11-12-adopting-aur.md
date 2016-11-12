@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Packaging Applications for AUR
-excerpt: "A random start that is scary and exciting."
+title: Contributing to Arch User Repository (AUR)
+excerpt: "Contributing is an exciting but scary way to learn."
 modified: 2016-06-12
 category: blog
 tags: [programming, linux]

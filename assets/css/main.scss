@@ -2,12 +2,27 @@
 # only main files contain this front matter, not partials.
 ---
 
+@import "typography";
+
 .content {
-    width: 80%;
-    margin: 0 auto;
+    width: 50%;
+    margin: auto;
 }
 
 .page-title {
-    width: 80%;
-    margin: 0 auto;
+    width: 50%;
+    margin: auto;
 }
+
+h1 {
+    font-family: $body-font;
+}
+
+body {
+    font-family: $heading-font;
+}
+
+code {
+    font-family: $code-font;
+}
+

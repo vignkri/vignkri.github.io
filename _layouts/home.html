@@ -9,35 +9,17 @@
 </head>
 
 <body class="home">
-
-{% if page.image.feature %}
-  <div class="image-wrap">
-  <img src=
-    {% if page.image.feature contains 'http' %}
-      "{{ page.image.feature }}"
-    {% else %}
-      "{{ site.url }}/images/{{ page.image.feature }}"
-    {% endif %}
-  alt="{{ page.title }} feature image">
-  {% if page.image.credit %}
-    <span class="image-credit">Photo Credit: <a href="{{ page.image.creditlink }}">{{ page.image.credit }}</a></span>
-  {% endif %}
-  </div><!-- /.image-wrap -->
-{% endif %}
-
-<div id="main" role="main">
-  <div class="article-author-side">
-	<h1>{{ page.title }}</h1>
-  </div>
-  <article class="page">
-    <div class="article-wrap">
-      {{ content }}
-    </div><!-- /.article-wrap -->
-  </article>
-</div><!-- /#main -->
-
-<div class="footer-wrap">
-</div><!-- /.footer-wrap -->
-
+    <div id="main" role="main">
+        <div class="page-title">
+            <h1>{{ page.title }}</h1>
+        </div>
+        <div class="page">
+            <div class="content">
+                {{ content }}
+            </div><!-- content -->
+        </div><!-- page -->
+    </div><!-- /#main -->
+    <div class="footer-wrap">
+    </div><!-- /.footer-wrap -->
 </body>
 </html>

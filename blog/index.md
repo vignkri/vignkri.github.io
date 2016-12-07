@@ -1,5 +1,5 @@
 ---
-layout: blog-home
+layout: blog
 title: Blog
 excerpt: "The neurons that power me"
 tags: [blog, home-page]

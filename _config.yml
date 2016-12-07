@@ -2,42 +2,39 @@
 
 title:            Vignesh Krish
 locale:           en_US
-url:              http://vigne.sh
+# url:              http://vigne.sh
 
 
 # Jekyll configuration
 
+# -- where things are
+source:         .
+destination:    ./_site
+layouts_dir:    ./_layouts
+data_dir:       ./_data
+includes_dir:   ./_includes
+
+# -- handling read
+safe:           false
+encoding:       "uft-8"
+markdown_ext:   "md, mkdown"
+include:        [".htaccess"]
+exclude:        ["lib", "config.rb", "Capfile", "config", "log", "Rakefile", "Rakefile.rb", "tmp", "less", "*.sublime-project", "*.sublime-workspace", "test", "spec", "Gruntfile.js", "package.json", "node_modules", "Gemfile", "Gemfile.lock", "LICENSE", "README.md"]
+
+# -- outputting 
 permalink:   /:categories/:title/
 markdown:    kramdown
-highlighter: pygments
+highlighter: rouge 
 sass:
   sass_dir: _sass
   style: compressed
 gems:
   - jekyll-sitemap
 
+# -- kramdown settings
 kramdown:
   auto_ids: true
   footnote_nr: 1
   entity_output: as_char
   toc_levels: 1..6
   enable_coderay: false
-
-
-# Site owner
-owner:
-  name: Vignesh Krishnamoorthy
-# avatar: bio-photo.jpg
-  email: k.vignesh.krish@gmail.com
-  twitter: vignkr
-  github: vigneshkrishnamoorthy
-  google:
-    plus: #username
-    analytics:
-    verify:
-    ad-client:
-    ad-slot:
-  linkedin: vigneshkrishnamoorthy
-
-include: [".htaccess"]
-exclude: ["lib", "config.rb", "Capfile", "config", "log", "Rakefile", "Rakefile.rb", "tmp", "less", "*.sublime-project", "*.sublime-workspace", "test", "spec", "Gruntfile.js", "package.json", "node_modules", "Gemfile", "Gemfile.lock", "LICENSE", "README.md"]

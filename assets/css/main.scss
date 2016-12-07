@@ -1,21 +1,13 @@
 ---
-sitemap: false
+# only main files contain this front matter, not partials.
 ---
 
-// Partials
-// @import "variables";
-// @import "grid";
-// @import "mixins";
-// @import "normalize";
-// @import "site";
-// @import "typography";
-// @import "pygments";
-// @import "coderay";
-// @import "elements";
-// @import "forms";
-// @import "page";
+.content {
+    width: 80%;
+    margin: 0 auto;
+}
 
-
-//@import "vendor/font-awesome/font-awesome";
-//@import "vendor/magnific-popup/magnific-popup";
-//@import "vendor/google/fonts";
+.page-title {
+    width: 80%;
+    margin: 0 auto;
+}

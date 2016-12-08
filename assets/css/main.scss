@@ -6,6 +6,12 @@
 @import "variables";
 @import "highlighter";
 
+.home {
+    margin-top: 0px;
+    margin-right: 0px;
+    margin-left: 0px;
+}
+
 .content {
     width: 50%;
     margin: auto;
@@ -16,6 +22,37 @@
     margin: auto;
 }
 
+.navigation-wrapper {
+    background-color: $nav-bg;
+    padding: 16px 16px 16px 16px;
+}
+
+.site-name {
+    float: left; 
+}
+
+.top-navigation {
+    width: 50%;
+    margin: auto;
+    font-size: 14;
+
+    ul {
+        position: relative;
+        margin-top: -1.5em;
+        padding-left: 0px;
+    }
+
+    li {
+        list-style: none;
+        float: right;
+    }
+
+    li a {
+        text-align: center;
+        color: $nav-fcolor;
+    }
+}
+
 h1 {
     font-family: $base-font;
 }
@@ -23,3 +60,4 @@ h1 {
 body {
     font-family: $base-font;
 }
+

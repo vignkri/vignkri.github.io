@@ -1,0 +1,29 @@
+<div class="navigation-wrapper">
+    <div class="top-navigation">
+        <div class="site-name">
+            <a href="{{ site.url }}/">
+                <navlinker>
+                Vignesh Krishnamoorthy
+                </navlinker>
+            </a>
+        </div class="site-name">
+        <div role="navigation" id="site-nav" class="nav">
+            <ul>
+                {% for link in site.data.navigation %}
+                {% if link.url contains 'http' %}
+                {% assign domain = '' %}
+                {% else %}
+                {% assign domain = site.url %}
+                {% endif %}
+                <li>
+                    <a href="{{ domain }}{{ link.url }}" {% if link.url contains 'http' %}target="_blank"{% endif %}>
+                        <navlinker>
+                        {{ link.title }}
+                        </navlinker>
+                    </a> / 
+                </li>
+				{% endfor %}
+            </ul>
+        </div>
+    </div><!-- /.top-navigation -->
+</div><!-- /.navigation-wrapper -->

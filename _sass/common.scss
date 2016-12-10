@@ -1,0 +1,41 @@
+// Common elements styling
+
+// main width of the content
+
+div#main{
+    width: 50%;
+    margin: auto;
+}
+
+// navigation bar
+
+.navigation-wrapper {
+    background-color: $nav-bg;
+    padding: 16px 16px 16px 16px;
+}
+
+.site-name {
+    float: left; 
+}
+
+.top-navigation {
+    width: 50%;
+    margin: auto;
+    font-size: 14;
+
+    ul {
+        position: relative;
+        margin-top: -1.5em;
+        padding-left: 0px;
+    }
+
+    li {
+        list-style: none;
+        float: right;
+    }
+
+    li a {
+        text-align: center;
+        color: $nav-fcolor;
+    }
+}

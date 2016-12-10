@@ -1,3 +1,14 @@
 $body-font: 'Ubuntu', sans-serif;
 $base-font: 'Fjord One', serif;
 $code-font: 'Inconsolata', monospace;
+
+// system-wide font changes
+
+h1 {
+    font-family: $base-font;
+}
+
+body {
+    font-family: $base-font;
+}
+

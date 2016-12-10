@@ -7,6 +7,10 @@ div#main{
     margin: auto;
 }
 
+.content {
+    line-height: 1.5em;
+}
+
 // navigation bar
 
 .navigation-wrapper {
@@ -90,7 +94,7 @@ blockquote {
 a:link {
     font-weight: light;
     color: $unrd-links;
-    text-decoration: none;
+    // text-decoration: none;
 }
 
 a:hover {
@@ -104,4 +108,14 @@ a:visited {
 
 a:active {
     color: $actv-links;
+}
+
+// inline-code - Global
+
+code {
+    color: $code-text;
+    padding-left: 5px;
+    padding-right: 5px;
+    border-radius: 5px;
+    background: $code-bg;
 }

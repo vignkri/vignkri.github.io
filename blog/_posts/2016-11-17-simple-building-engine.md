@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Building Energy Simulation, Getting Started
+excerpt: "Simple building energy usage simulation engine."
 modified: 2016-11-17
 category: blog
 tags: [python, project]

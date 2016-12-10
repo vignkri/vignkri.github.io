@@ -39,3 +39,12 @@ div#main{
         color: $nav-fcolor;
     }
 }
+
+// Blockquotes
+
+blockquote {
+    margin: 0em 1em 0em 2em;
+    border-radius: 3px;
+    padding: 8px 8px 8px 8px;
+    background: $code-bg;
+}

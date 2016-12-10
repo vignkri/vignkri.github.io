@@ -77,6 +77,7 @@ blockquote {
         margin-bottom: 4px
     }
 
+
     #excerpt {
         font-size: 14;
         font-style: italic;
@@ -88,3 +89,20 @@ blockquote {
     }
 }
 
+// Links - Global
+
+a:link {
+    color: $unrd-links;
+}
+
+a:hover {
+    color: $hovr-links;
+}
+
+a:visited {
+    color: $read-links;
+}
+
+a:active {
+    color: $actv-links;
+}

@@ -28,9 +28,6 @@
                         {{ post.title }}
                         </a>
                     </h2>
-                    <div id="dates">
-                        Published <time datetime="{{ post.date | date_to_xmlschema }}" itemprop="datePublished">{{ post.date | date: "%B %d, %Y" }}</time> and modified last on {{ post.modified }}
-                    </div>
                     <div id="excerpt">
                         {{ post.excerpt }}
                     </div>

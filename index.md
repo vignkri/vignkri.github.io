@@ -1,13 +1,12 @@
 ---
 layout: home
-title:
+title: Hi, I am Vignesh Krishnamoorthy
 tags: [blog, home-page]
 image:
   feature: 
   credit: 
   creditlink:
 ---
-# Hi, I am Vignesh Krishnamoorthy
 
 I graduated from the Technical University of Denmark as a Sustainable Energy Engineer, in 2015. Currently, I am employed at <a href="http://leapcraft.dk">Leapcraft</a> creating data products. 
 

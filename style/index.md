@@ -1,9 +1,12 @@
 ---
 layout: page
-title: Style Guide
+title: Carnot-Jekyll, Style Guide
 ---
 
-This is a style-guide to how my page works. I've tried to give you a description of all that is possible with the blog here. This is just to make sure that I, myself, have a good idea of what is going on with my design since I am not a designer but loves aesthetics in general.
+> Life is nature's solution to the problem of preserving information despite the second law of thermodynamics.
+  *(Howard L. Resnikoff)*
+
+This is my first time designing anything similar to a webpage. I've tried to make sure my aesthetic wishes are fulfilled with my design. So, just to make sure everything is well followed, I've this style guide. Enjoy!
 
 # Lists
 

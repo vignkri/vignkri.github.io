@@ -34,10 +34,6 @@ div#main{
         float: right;
     }
 
-    li a {
-        text-align: center;
-        color: $nav-fcolor;
-    }
 }
 
 // Blockquotes
@@ -92,7 +88,9 @@ blockquote {
 // Links - Global
 
 a:link {
+    font-weight: light;
     color: $unrd-links;
+    text-decoration: none;
 }
 
 a:hover {
@@ -101,6 +99,7 @@ a:hover {
 
 a:visited {
     color: $read-links;
+    text-decoration: none;
 }
 
 a:active {

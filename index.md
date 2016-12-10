@@ -2,8 +2,15 @@
 layout: home
 title: Hi, I am Vignesh Krishnamoorthy
 tags: [blog, home-page]
+hero: /assets/images/vignesh.jpeg
 ---
 
-I graduated from the Technical University of Denmark as a Sustainable Energy Engineer, in 2015. Currently, I am employed at <a href="http://leapcraft.dk">Leapcraft</a> creating data products. 
+Sustainable Energy Engineer who graduated from the Technical University of Denmark, DTU in the summer of 2015. Currently, I am employed at <a href="leapcraft.dk">Leapcraft</a> creating data products for smart cities.
 
-In my free time, I tinker with programming, read, watch and write about various things that pique my interest. You can read about what I think and what I do, right here. Check out the <a href='blog'>blog</a> to see more of what I write. You can contact me through <a href="http://github.com/vignkri">Github</a>, through <a href='https://dk.linkedin.com/in/vigneshkrishnamoorthy'>LinkedIn</a> or by sending me a mail <a href='mailto:k.vignesh.krish@gmail.com?Subject=Hello%20!'>here</a>.
+In my free time, I tinker with programming, read a lot, watch a lot of movies/tv-shows and write about a variety of things that I currently am interested in. This is an extension of all of those things I do. Besides all of the things done with a roof over my head, I love running and cycling which takes up some interesting amount of time in my life. You can read what I write by going to my [blog]({{ site.url }}/blog/) and if you like the design of the blog, feel free to fork it.
+
+Find me here: [Github](github.com/vignkri)
+- [Bitbucket](bitbucket.com/vignkri)
+- [LinkedIn](https:/dk.linkedin.com/in/vigneshkrishnamoorthy)
+- [Mail](mailto:k.vignesh.krish@gmail.com?Subject=Hello%20!)
+

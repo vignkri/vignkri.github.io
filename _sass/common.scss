@@ -48,3 +48,43 @@ blockquote {
     padding: 8px 8px 8px 8px;
     background: $code-bg;
 }
+
+// home picture and content
+.hero-picture {
+    max-width: 45%;
+    max-width: 45%;
+
+    img {
+        max-width: 100%;
+        max-height: 100%;
+        border-radius: 5px;
+    }
+}
+
+#home-content {
+    float: right;
+    width: auto;
+    height: auto;
+    max-width: 50%;
+    max-height: 50%;
+}
+
+// Blog css
+
+.link-posts{
+
+    h2 {
+        margin-bottom: 4px
+    }
+
+    #excerpt {
+        font-size: 14;
+        font-style: italic;
+    }
+
+    #dates {
+        font-size: 10;
+        font-style: italic;
+    }
+}
+

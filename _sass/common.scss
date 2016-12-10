@@ -43,9 +43,10 @@ div#main{
 // Blockquotes
 
 blockquote {
-    margin: 0em 1em 0em 2em;
+    width: 60%;
+    margin: 0em 2em 0em 6em;
     border-radius: 3px;
-    padding: 8px 8px 8px 8px;
+    padding: 4px 4px 4px 12px;
     background: $code-bg;
 }
 

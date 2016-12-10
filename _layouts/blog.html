@@ -15,7 +15,7 @@
             <div class="content" id="index-posts">
                 {% if post.link %}
                 <div class="link-posts">
-                    <h2>
+                    <h2 id="post-title">
                         <a href="{{ site.url }}{{ post.url }}" title="{{ post.title }}">
                             {{ post.title }}
                         </a>
@@ -28,6 +28,12 @@
                         {{ post.title }}
                         </a>
                     </h2>
+                    <div id="dates">
+                        Published <time datetime="{{ post.date | date_to_xmlschema }}" itemprop="datePublished">{{ post.date | date: "%B %d, %Y" }}</time> and modified last on {{ post.modified }}
+                    </div>
+                    <div id="excerpt">
+                        {{ post.excerpt }}
+                    </div>
                 </div>
                 {% endif %}
             </div><!-- index-posts -->

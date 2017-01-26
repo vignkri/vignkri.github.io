@@ -14,3 +14,10 @@ Find me here: [Github](http://github.com/vignkri)
 - [LinkedIn](https:/dk.linkedin.com/in/vigneshkrishnamoorthy)
 - [Mail](mailto:k.vignesh.krish@gmail.com?Subject=Hello%20!)
 
+<style>
+  .strava-badge- { display: inline-block; height: 48px; }
+  .strava-badge- img { visibility: hidden; height: 48px; }
+  .strava-badge-:hover { background-position: 0 -63px; }
+  .strava-badge-follow { height: 48px; width: 48px; background: url(//badges.strava.com/echelon-sprite-48.png) no-repeat 0 0; }
+</style>
+<a href="http://strava.com/athletes/16172405/badge" class="strava-badge- strava-badge-follow" target="_blank"><img src="//badges.strava.com/echelon-sprite-48.png" alt="Strava" /></a>
